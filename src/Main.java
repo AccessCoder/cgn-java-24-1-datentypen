@@ -25,7 +25,7 @@ public class Main {
 
         //Basic Operators
         /**
-         * Mathematischen Operatoren = +, -, *, / | Wir bekommen ein Mathematisches Ergebnis (Zahl)
+         * Mathematischen Operatoren = +, -, *, /, % | Wir bekommen ein Mathematisches Ergebnis (Zahl)
          * Vergleichsoperatoren = ==, != , >, <, >=, <= | Wir bekommen einen Wahrheitswert, also true/false
          * Logische Operatoren = && (Und), || (Oder), ! (Nicht) | Anwendbar auf Wahrheitswerte!
          */
